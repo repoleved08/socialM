@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailService", "EmailService\EmailService.csproj", "{F32D1AE2-4CE6-486E-8FF7-D6DBAA64EB41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationService", "AuthenticationService\AuthenticationService.csproj", "{6050BB93-2F7E-4F86-B95D-A5D22E5E36AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentService", "CommentService\CommentService.csproj", "{262DC827-85FA-4C86-84AD-FFDCA77A8ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32D1AE2-4CE6-486E-8FF7-D6DBAA64EB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32D1AE2-4CE6-486E-8FF7-D6DBAA64EB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32D1AE2-4CE6-486E-8FF7-D6DBAA64EB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32D1AE2-4CE6-486E-8FF7-D6DBAA64EB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6050BB93-2F7E-4F86-B95D-A5D22E5E36AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6050BB93-2F7E-4F86-B95D-A5D22E5E36AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6050BB93-2F7E-4F86-B95D-A5D22E5E36AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6050BB93-2F7E-4F86-B95D-A5D22E5E36AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{262DC827-85FA-4C86-84AD-FFDCA77A8ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262DC827-85FA-4C86-84AD-FFDCA77A8ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262DC827-85FA-4C86-84AD-FFDCA77A8ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262DC827-85FA-4C86-84AD-FFDCA77A8ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
